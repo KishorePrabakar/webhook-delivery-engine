@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+asyncpg
+alembic
+pydantic[email]
+arq
+redis
+httpx
+python-dotenv
+python-multipart
+websockets
